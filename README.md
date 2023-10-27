@@ -8,4 +8,4 @@ Projects and studies
 
 ### Data visualization of Squid Game Netflix Twitter Audience
 - Objective: Social media measurement of Netflix show
-- -[Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2ViMWJiNDUtYTYzMC00OTJmLWJhYTctNmQyMDg1ZTkxYmM5IiwidCI6ImI5Y2FlYWRlLTI5MjgtNDAwNy05NWRmLTg3NjFjYjYxNTU5NCJ9)
+- [Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2ViMWJiNDUtYTYzMC00OTJmLWJhYTctNmQyMDg1ZTkxYmM5IiwidCI6ImI5Y2FlYWRlLTI5MjgtNDAwNy05NWRmLTg3NjFjYjYxNTU5NCJ9)
