@@ -14,3 +14,7 @@ Projects and studies
 ### Rocket Launches over time
 - Objective:Explore how countries and companies contributes to rockets launches since the Sputnik 8K71PS 
 - [Jupyter notebook](https://github.com/ovictordavid/RocketLaunchesOverTime/blob/main/Rocket%20launches%20over%20time%20(tiny%20project).ipynb)
+
+### ETL for crypto market
+- Objective: Construct an ETL process to get information from Market Coin by API
+- [Crypto-Collector](https://github.com/ovictordavid/crypto-collector)
