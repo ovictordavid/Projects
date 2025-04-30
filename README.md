@@ -16,5 +16,5 @@ Projects and studies
 - [Jupyter notebook](https://github.com/ovictordavid/RocketLaunchesOverTime/blob/main/Rocket%20launches%20over%20time%20(tiny%20project).ipynb)
 
 ### ETL for crypto market
-- Objective: Construct an ETL process to get information from Market Coin by API
+- Objective: Construct an ETL process to get information from CoinMarketCap by API
 - [Crypto-Collector](https://github.com/ovictordavid/crypto-collector)
